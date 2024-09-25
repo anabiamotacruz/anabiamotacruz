@@ -14,6 +14,6 @@ Atualmente, tenho trabalhado em dois projetos, ambos escritos em *Python*, são 
 Para qualquer fim (dúvidas, ofertas, sugestões etc), por favor, entrar em contato por algum dos meios abaixo:
 - [LinkedIn](https://www.linkedin.com/in/anabeatrizmotacruz): Link para meu LinkedIn.
 - [Instagram](https://www.instagram.com/biamotacruz/): Link para meu Instagram.
-- [E-mail](beatriz.abmc@gmail.com): Link para meu e-mail.
+- E-mail: anabiamotacruz@gmail.com
 
 Obrigada por ler até aqui, espero te ver mais vezes no meu parfil e que meus códigos possam te inspirar :)
