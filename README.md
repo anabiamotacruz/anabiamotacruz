@@ -9,6 +9,7 @@ As linguagens de programação que eu mais utilizo são *Python* e *Java*.
 Atualmente, tenho trabalhado em dois projetos, ambos escritos em *Python*, são eles:
 - [Sistema para bibliotecas](https://github.com/anabiamotacruz/biblioteca_sistema): Projeto feito para a minha extensão (ainda em andamento) que tem por objetivo principal facilitar o cadastro de livros e pessoas em uma biblioteca da minha cidade.
 - [Assistente virtual para mulheres](https://github.com/anabiamotacruz/assistente_virtual): Projeto feito para a criação de uma assistente virtual (sendo seu público alvo, mulheres) que tem por objetivo principal a junção de várias funções em um aplicativo só (calculadora, registro de ciclo menstrual, contar uma curiosidade).
+- [Sistema de banco](https://github.com/anabiamotacruz/banco): Projeto feito para meu curso de lógica de programação (ainda em andamento) que tem por objetivo principal facilitar o cadastro de pessoas e acessar o menu de um banco.
 
 ## Contato
 Para qualquer fim (dúvidas, ofertas, sugestões etc), por favor, entrar em contato por algum dos meios abaixo:
