@@ -17,4 +17,4 @@ Para qualquer fim (dúvidas, ofertas, sugestões etc), por favor, entrar em cont
 - [Instagram](https://www.instagram.com/biamotacruz/): Link para meu Instagram.
 - E-mail: anabiamotacruz@gmail.com
 
-Obrigada por ler até aqui, espero te ver mais vezes no meu parfil e que meus códigos possam te inspirar :)
+Obrigada por ler até aqui, espero te ver mais vezes no meu pErfil e que meus códigos possam te inspirar :)
