@@ -3,7 +3,7 @@
 ## Sobre mim:
 Sou estudante de **Ciência de Dados e Inteligência Artificial** pela Universidade Federal da Paraíba e de **Análise e Desenvolvimento de Sistemas** pela Universidade Estácio de Sá.
 Meu interesse atual na área da computação é a criação de códigos com banco de dados.
-As linguagens de programação que eu mais utilizo são *Python* e *Java*.
+A linguagem de programação que eu mais utilizo é *Python*.
 
 ## Meus projetos atuais:
 Atualmente, meu projeto favorito, escrito em *Python*, é:
