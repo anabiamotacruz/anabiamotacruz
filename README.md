@@ -11,9 +11,10 @@ Right now, my favorite *Python* repository is a little game I'm building with *P
 
 ## *Connect with me!*
 Feel free to reach out for collaborations or discussions:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=social&logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)
 
-## *GitHub Status*
-[![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabiamotacruz&show_icons=true&theme=rose)]
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFE6EE?style=plastic&logo=linkedin&logoColor=DA2C7D&labelColor=FFF0F5&color=FFB6C1)(https://linkedin.com/in/anabeatrizmotacruz)
+![Instagram](https://img.shields.io/badge/-Instagram-FFD1DC?style=plastic&logo=instagram&logoColor=FF3E6F&labelColor=FFF0F5&color=FFB6C1)(https://instagram.com/biamotacruz)
+![Email](https://img.shields.io/badge/-Email-FFF0F5?style=plastic&logo=gmail&logoColor=E84A8A&labelColor=FFF0F5&color=FFB6C1)(mailto:anabiamotacruz@gmail.com)
+
+## *GitHub Stats*
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabiamotacruz&show_icons=true&theme=rose)
