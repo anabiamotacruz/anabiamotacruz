@@ -5,9 +5,6 @@ I'm pursuing degrees in **Data Science and Artificial Intelligence** at the Fede
 Currently, I’m passionate about **research-driven problem-solving** and **creating innovative solutions that bridge technology and real-world challenges**.
 My primary programming language is *Python*.
 
-## *My favorite repositories:*
-Right now, my favorite *Python* repository is a little game I'm building with *Pygame*:
-
 
 ## *Connect with me!*
 Feel free to reach out for collaborations or discussions:
